@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-media",
-  "version": "5.0.3-dev",
+  "version": "5.0.4",
   "description": "Cordova Media Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media"
+    "url": "https://github.com/j4hangir/cordova-plugin-media"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
